@@ -4,5 +4,3 @@ __pycache__/
 *.h5
 data/chest_xray/
 
-*.png
-*.ipynb
