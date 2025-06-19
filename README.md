@@ -47,13 +47,3 @@ Grad-CAM images highlight regions in the lungs indicative of pneumonia.
 ## Notebook
 A companion notebook in `notebooks/` demonstrates the full pipeline from data loading to Grad-CAM visualization.
 
-
-## Sample Outputs
-Training produces the plots below stored in `data/` after running `train.py`:
-
-![Loss curve](data/loss_curve.png)
-![Accuracy curve](data/acc_curve.png)
-![Confusion Matrix](data/confusion_matrix.png)
-
-Example Grad-CAM visualization:
-![Grad-CAM](data/app_gradcam.png)
